@@ -34,7 +34,7 @@ function usage
   echo "# Build by debug mode and make with -j24."
   echo "./build.sh debug --make -j24"
 }
-
+#test
 function parse_args
 {
   make_start=false
